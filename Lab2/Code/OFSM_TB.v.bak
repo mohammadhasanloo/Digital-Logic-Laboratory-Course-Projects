@@ -1,0 +1,44 @@
+`timescale 1ns/1ns
+
+module OFSM_TB();
+  reg clk, clk_EN ,serIn;
+  wire serOut, serOutValid;
+  wire[3:0] Count_out;
+  OFSM ofsm (clk_EN, clk, serIn, serOut, serOutValid,Count_out);
+
+  initial begin
+    clk = 0;
+    clk_EN = 1;
+    #20
+   repeat (100) #20 clk = ~clk;   
+  end
+
+  initial begin
+    serIn = 1;
+    #40
+    serIn = 1;
+    #40
+    serIn = 0;
+    #40
+    serIn = 1;
+    #40
+    serIn = 1;
+    #40
+    serIn = 0;
+    #40
+    serIn = 1;
+    #40
+    serIn = 1;
+    #40
+    serIn = 0;
+    #40
+    serIn = 1;
+    #40
+    serIn = 1;
+    #40
+    serIn = 0;
+    #40
+    serIn = 1;
+  end
+
+endmodule

@@ -1,0 +1,49 @@
+{C:/Users/DLD lab 8/Desktop/DLD3/Frequency_Selector_TB.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Frequency_Selector_TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Frequency_Selector_TB
+
+Top level modules:
+	Frequency_Selector_TB
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/Counter.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Counter.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv} {0 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Waveform_Generator
+** Error: C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv(35): (vlog-2730) Undefined variable: 'reciprocal'.
+
+
+} {4.0 5.0} {}} {C:/Users/DLD lab 8/Desktop/DLD3/Amplitute_Selector.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Amplitute_Selector.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Amplitute_Selector
+
+Top level modules:
+	Amplitute_Selector
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator_TB.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator_TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Waveform_Generator_TB
+
+Top level modules:
+	Waveform_Generator_TB
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/Amplitute_Selector_TB.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Amplitute_Selector_TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Amplitute_Selector_TB
+
+Top level modules:
+	Amplitute_Selector_TB
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/Frequency_Selector.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/Frequency_Selector.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Frequency_Selector
+
+Top level modules:
+	Frequency_Selector
+
+} {} {}}

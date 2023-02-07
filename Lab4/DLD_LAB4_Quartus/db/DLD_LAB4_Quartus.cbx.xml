@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DLD_LAB4_Quartus">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DLD_LAB4_Quartus|ROM:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jg81.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DLD_LAB4_Quartus|exponential:inst2|datapath:dP|multiplier:mult|lpm_mult:Mult0" CBX_FILE_NAME="mult_l8t.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

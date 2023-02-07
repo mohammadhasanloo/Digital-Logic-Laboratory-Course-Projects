@@ -1,0 +1,184 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/One Drive/OneDrive/Desktop/DLDLab2/DLD3
+vcounter
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1669631053
+!i10b 1
+!s100 dm13]KaPiDnD[Vo4R4]:V3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@Ck_UgDPQNL3jml^nlczT2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dF:/One Drive/OneDrive/Desktop/DLDLab2/DLD2
+w1669630829
+8F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\counter.sv
+FF:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\counter.sv
+!i122 136
+L0 2 20
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1669631053.000000
+!s107 F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\counter.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vOFSM
+R1
+!i10b 1
+!s100 OOHmW6oC[dhO@;YnhUS^`2
+R2
+Ill73F?BJF=7B>jZOiK>a73
+R3
+R4
+w1669630013
+8F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\OFSM.v
+FF:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\OFSM.v
+!i122 137
+L0 1 11
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\OFSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\OFSM.v|
+!i113 1
+Z9 o-work work
+R8
+n@o@f@s@m
+vOFSM_tb
+!s110 1669625660
+!i10b 1
+!s100 VaG3HkB3iHN@T@HB4CQ<o0
+R2
+I;SC`YKgUKb^nZkZI_@c;32
+R3
+R4
+w1669623657
+8F:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_test.v
+FF:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_test.v
+!i122 25
+L0 3 38
+R5
+r1
+!s85 0
+31
+!s108 1669625660.000000
+!s107 F:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_test.v|
+!i113 1
+R9
+R8
+n@o@f@s@m_tb
+vOFSM_TB
+Z10 !s110 1669631054
+!i10b 1
+!s100 fA9g:DF^7Yzc57fDAKYnn0
+R2
+IP2M9A`_6Q>a[2Qj5e0Qal0
+R3
+R4
+w1669631050
+8F:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_TB.v
+FF:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_TB.v
+!i122 139
+L0 3 40
+R5
+r1
+!s85 0
+31
+!s108 1669631054.000000
+!s107 F:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/One Drive/OneDrive/Desktop/DLDLab2/DLD2/OFSM_TB.v|
+!i113 1
+R9
+R8
+n@o@f@s@m_@t@b
+vone_pulse
+R0
+!s110 1669631055
+!i10b 1
+!s100 kKo=1S1fOfFkgbQ[K5fl42
+R2
+I=c@PDE=Re]GRTCGQn@7CB0
+R3
+S1
+R4
+w1668409880
+8F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse.sv
+FF:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse.sv
+!i122 140
+Z11 L0 2 23
+R5
+r1
+!s85 0
+31
+!s108 1669631055.000000
+!s107 F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse.sv|
+!i113 1
+R7
+R8
+vone_pulse_TB
+R0
+!s110 1669631056
+!i10b 1
+!s100 ?Lc<BbnkYlRa_DoeQf[ez3
+R2
+IQL1b27UMZ]:aMHaAC2hk]2
+R3
+S1
+R4
+w1666281314
+8F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse_TB.sv
+FF:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse_TB.sv
+!i122 141
+L0 2 25
+R5
+r1
+!s85 0
+31
+!s108 1669631056.000000
+!s107 F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\one_pulse_TB.sv|
+!i113 1
+R7
+R8
+none_pulse_@t@b
+vsequence_detector_1011
+R0
+R10
+!i10b 1
+!s100 Q^L<`zZ?N`8TZkH4YbH2J2
+R2
+I]NPPUCH9h;Nik_LB1mdP=0
+R3
+S1
+R4
+w1669625805
+8F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\sequence_detector_1011.sv
+FF:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\sequence_detector_1011.sv
+!i122 138
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\sequence_detector_1011.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:\One Drive\OneDrive\Desktop\DLDLab2\DLD2\sequence_detector_1011.sv|
+!i113 1
+R7
+R8

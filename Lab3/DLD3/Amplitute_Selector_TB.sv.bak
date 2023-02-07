@@ -1,0 +1,21 @@
+module Amplitute_Selector_TB();
+  reg [7:0] inn;
+  reg[1:0] divisionn;
+  wire [7:0] outt;
+  
+  Amplitute_Selector UUT(inn, divisionn, outt);
+  
+  initial begin
+    inn = 8'b11110000;
+  end  
+  
+  initial begin divisionn = 2'b00; end
+    
+  initial begin
+  #20 divisionn = 2'b00;
+  #20 divisionn = 2'b01;
+  #20 divisionn = 2'b10;
+  #20 divisionn = 2'b11;
+  #20 $stop;
+  end
+endmodule

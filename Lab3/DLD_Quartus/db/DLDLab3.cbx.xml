@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DLDLab3">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DLDLab3_Diagram|Waveform_Generator:inst|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_5dm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DLDLab3_Diagram|rom:inst18|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qu91.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

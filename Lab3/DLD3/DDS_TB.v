@@ -1,0 +1,18 @@
+`timescale 1ns/1ns
+
+module DDS_TB ();
+    
+    reg clk = 0 , rst = 1;
+    reg phase_control = 1'b1;
+    wire [7:0]address;
+
+    DDS CUT(.clk(clk),.rst(rst),.phase_control(phase_control),.address(address));
+
+    always #10 clk = ~clk;
+    initial begin
+        #20 rst = 0;
+        #500 phase_control = 1'b0;
+	#500 $stop;
+    end
+
+endmodule

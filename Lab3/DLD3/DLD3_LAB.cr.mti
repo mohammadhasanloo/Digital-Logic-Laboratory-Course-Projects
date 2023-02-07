@@ -1,0 +1,92 @@
+D:/DLD3/Amplitute_Selector.v {1 {vlog -work work D:/DLD3/Amplitute_Selector.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Amplitute_Selector
+
+Top level modules:
+	Amplitute_Selector
+
+} {} {}} D:/DLD3/Register.v {1 {vlog -work work D:/DLD3/Register.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} D:/DLD3/Waveform_Generator.v {1 {vlog -work work D:/DLD3/Waveform_Generator.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Waveform_Generator
+
+Top level modules:
+	Waveform_Generator
+
+} {} {}} D:/DLD3/Frequency_Selector_TB.v {1 {vlog -work work D:/DLD3/Frequency_Selector_TB.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Frequency_Selector_TB
+
+Top level modules:
+	Frequency_Selector_TB
+
+} {} {}} D:/DLD3/Adder.v {1 {vlog -work work D:/DLD3/Adder.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/DLD3/PWM_TB.v {1 {vlog -work work D:/DLD3/PWM_TB.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module PWM_TB
+
+Top level modules:
+	PWM_TB
+
+} {} {}} D:/DLD3/Waveform_Generator_TB.v {1 {vlog -work work D:/DLD3/Waveform_Generator_TB.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Waveform_Generator_TB
+
+Top level modules:
+	Waveform_Generator_TB
+
+} {} {}} D:/DLD3/Amplitute_Selector_TB.v {1 {vlog -work work D:/DLD3/Amplitute_Selector_TB.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Amplitute_Selector_TB
+
+Top level modules:
+	Amplitute_Selector_TB
+
+} {} {}} D:/DLD3/Frequency_Selector.v {1 {vlog -work work D:/DLD3/Frequency_Selector.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Frequency_Selector
+
+Top level modules:
+	Frequency_Selector
+
+} {} {}} D:/DLD3/DDS.v {1 {vlog -work work D:/DLD3/DDS.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module DDS
+
+Top level modules:
+	DDS
+
+} {} {}} D:/DLD3/PWM.v {1 {vlog -work work D:/DLD3/PWM.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} D:/DLD3/Counter.v {1 {vlog -work work D:/DLD3/Counter.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} D:/DLD3/DDS_TB.v {1 {vlog -work work D:/DLD3/DDS_TB.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module DDS_TB
+
+Top level modules:
+	DDS_TB
+
+} {} {}}

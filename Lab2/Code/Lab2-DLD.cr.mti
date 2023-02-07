@@ -1,0 +1,45 @@
+{C:/Users/DLD lab 8/Desktop/DLD3/sequence_detector_TB.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/sequence_detector_TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module sequence_detector_1011_TB
+
+Top level modules:
+	sequence_detector_1011_TB
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/one_pulse_TB.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/one_pulse_TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module one_pulse_TB
+
+Top level modules:
+	one_pulse_TB
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/counter.sv} {2 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/counter.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter
+** Warning: C:/Users/DLD lab 8/Desktop/DLD3/counter.sv(19): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/sequence_detector_1011.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/sequence_detector_1011.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module sequence_detector_1011
+
+Top level modules:
+	sequence_detector_1011
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/counter_TB.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/counter_TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter_TB
+
+Top level modules:
+	counter_TB
+
+} {} {}} {C:/Users/DLD lab 8/Desktop/DLD3/one_pulse.sv} {1 {vlog -work work -sv {C:/Users/DLD lab 8/Desktop/DLD3/one_pulse.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module one_pulse
+
+Top level modules:
+	one_pulse
+
+} {} {}}

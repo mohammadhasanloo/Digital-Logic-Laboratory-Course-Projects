@@ -1,0 +1,17 @@
+`timescale 1ns/1ns
+
+module Waveform_Generator_TB ();
+    
+    reg clk = 0 , rst = 1;
+    wire [7:0]count , wave;
+
+    Waveform_Generator CUT (clk, rst, 3'b010, count, wave);
+    counter UUT(.clk(clk),.pin(),.select(1'b1),.ld(),.rst(rst),.en(1'b1),.pout(count),.co());
+
+    always #10 clk = ~clk;
+    initial begin
+        #20 rst = 0;
+        #100000 $stop;
+    end
+
+endmodule
