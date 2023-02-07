@@ -1,0 +1,7 @@
+module OFSM(input clk_EN, clk, serIn, output serOut, serOutValid, output[3:0] Count_out);
+  wire co, inc_cnt, rst;
+  
+  counter cnt (clk, 1'b1,clk_EN,inc_cnt, rst, co, Count_out);
+  sequence_detector_1011 sd (clk, serIn, co, serOut, serOutValid, inc_cnt, rst);
+  
+endmodule

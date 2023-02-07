@@ -1,0 +1,255 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\DLD4_NEW
+vadder
+Z1 !s100 ;2e:F79`ngUKRKF>4[GBA2
+Z2 IP;eAk0B;J9]ccRS4aUDkX3
+Z3 V0LM1L3SQLO]nE0Ti;o<?o0
+Z4 dD:\DLD4_NEW
+Z5 w1673246176
+Z6 8D:/DLD4_NEW/Exp_Accelerator_codes/adder.v
+Z7 FD:/DLD4_NEW/Exp_Accelerator_codes/adder.v
+L0 1
+Z8 OV;L;10.1b;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1670998502.008000
+Z12 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z13 !s100 K2bdHg?`o9VK3KGi:7BhP0
+Z14 I1__GD80VhmDM6;E6ZIjDk3
+Z15 VE;4=AZM0JjhbV5AOckjYH2
+R4
+R5
+Z16 8D:/DLD4_NEW/Exp_Accelerator_codes/Controller.v
+Z17 FD:/DLD4_NEW/Exp_Accelerator_codes/Controller.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/Controller.v|
+R10
+Z19 !s108 1670998502.647000
+Z20 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z21 !s100 oVG04NZAeaFkKIekBgMK80
+Z22 I`W7kENHV]]gmFconHFfL20
+Z23 VD>ZHGBO`FLBilAOTHjL@63
+R4
+Z24 w1673246178
+Z25 8D:/DLD4_NEW/Exp_Accelerator_codes/Counter.v
+Z26 FD:/DLD4_NEW/Exp_Accelerator_codes/Counter.v
+L0 2
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/Counter.v|
+R10
+Z28 !s108 1670998503.349000
+Z29 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/Counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z30 !s100 9TH7d<SA8l6<GBa4VFb1;2
+Z31 IQ95=a^l5=8_X>N51G=h]I2
+Z32 VNl4KO1j8IXWJPzz7ANnnP2
+R4
+R24
+Z33 8D:/DLD4_NEW/Exp_Accelerator_codes/Datapath.v
+Z34 FD:/DLD4_NEW/Exp_Accelerator_codes/Datapath.v
+L0 1
+R8
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/Datapath.v|
+R10
+Z36 !s108 1670998504.083000
+Z37 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vexponential
+Z38 !s100 ;f=PLU]do;Rglo0022jRQ1
+Z39 IbHc=7[IaZm4dE?Gfb6fK<2
+Z40 V==8=M@z8E6URNKP0g4HFV1
+R4
+R24
+Z41 8D:/DLD4_NEW/Exp_Accelerator_codes/exponential.v
+Z42 FD:/DLD4_NEW/Exp_Accelerator_codes/exponential.v
+L0 1
+R8
+r1
+31
+Z43 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/exponential.v|
+R10
+Z44 !s108 1670998504.753000
+Z45 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/exponential.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vexponential_TB
+Z46 IS:DMDd1z_K@=J=jj[W0OA3
+Z47 Vb6m;U9ECm5T4oFkFo9BV00
+R4
+Z48 w1670998494
+Z49 8D:/DLD4_NEW/exponential_TB.v
+Z50 FD:/DLD4_NEW/exponential_TB.v
+L0 3
+R8
+r1
+31
+Z51 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/exponential_TB.v|
+R10
+Z52 nexponential_@t@b
+Z53 !s100 BcngzhA]E<iHQJo57C>2X1
+Z54 !s108 1670998499.855000
+Z55 !s107 D:/DLD4_NEW/exponential_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT
+Z56 !s100 YDfM>VGH6bJlf;iYh_XIQ3
+Z57 I]3?>LnPeFURUX0P3UdXII1
+Z58 Vh7kg2cEEBCi[=5oM4L;0S3
+R4
+R24
+Z59 8D:/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v
+Z60 FD:/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v
+L0 1
+R8
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v|
+R10
+Z62 n@l@u@t
+Z63 !s108 1670998505.533000
+Z64 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z65 !s100 d>eQPcSKIZ:2=618C3_o@3
+Z66 IdU<UeAEE`kMYKDk89U:[N1
+Z67 VH:6SEC``QL31]mIH0HHiV1
+R4
+R24
+Z68 8D:/DLD4_NEW/Exp_Accelerator_codes/multiplier.v
+Z69 FD:/DLD4_NEW/Exp_Accelerator_codes/multiplier.v
+L0 2
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/multiplier.v|
+R10
+Z71 !s108 1670998506.189000
+Z72 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+Z73 !s100 e;_@fkWzda85O=]IVG7JY1
+Z74 IcBVWOn16iSmUd[Tj6MWli3
+Z75 V>M@I<QgBEE>P@>dOPjF]V3
+R4
+R24
+Z76 8D:/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v
+Z77 FD:/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v
+L0 2
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v|
+R10
+Z79 !s108 1670998506.906000
+Z80 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+Z81 !s100 GoX769BXi[L2gAk^>i_Ug2
+Z82 I=_CX02j<2CBKKA6f;1U>z3
+Z83 VbD9C:0UbIhUB?^a:7EYYh2
+R4
+R24
+Z84 8D:/DLD4_NEW/Exp_Accelerator_codes/register.v
+Z85 FD:/DLD4_NEW/Exp_Accelerator_codes/register.v
+L0 2
+R8
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/register.v|
+R10
+!i10b 1
+!s85 0
+Z87 !s108 1670998507.639000
+Z88 !s107 D:/DLD4_NEW/Exp_Accelerator_codes/register.v|
+!s101 -O0
+vregister18
+!i10b 1
+Z89 !s100 <kIbi^GeWU5Yzkf6OS]6g3
+Z90 IFUb3cGmbDSkQ6>24g=BJ=2
+Z91 V8BhoY;<lI<5_07X=bBL@m0
+R4
+R24
+Z92 8D:/DLD4_NEW/Exp_Accelerator_codes/register18.v
+Z93 FD:/DLD4_NEW/Exp_Accelerator_codes/register18.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1670998508.357000
+!s107 D:/DLD4_NEW/Exp_Accelerator_codes/register18.v|
+Z94 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/Exp_Accelerator_codes/register18.v|
+!s101 -O0
+R10
+vwrapper_counter
+Z95 !s100 GBHDzT_eX=d?98ziL?7@?3
+Z96 If2LlU;SUDLhXeC^J=<akC1
+Z97 VSk;PA>iFP:^fYn^hU35c^1
+R4
+Z98 w1673250564
+Z99 8D:/DLD4_NEW/wrapper_counter.v
+Z100 FD:/DLD4_NEW/wrapper_counter.v
+L0 1
+R8
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/wrapper_counter.v|
+R10
+Z102 !s108 1670998500.495000
+Z103 !s107 D:/DLD4_NEW/wrapper_counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vWrapperController
+Z104 !s100 KBEYKIG8X3RFC?B?h3CRD2
+Z105 IV?Y8RfAn:lI>1e^YCe5Ef2
+Z106 VC9K`QWf^_dhe7mRWI=@jg1
+R4
+Z107 w1673251916
+Z108 8D:/DLD4_NEW/WrapperController.v
+Z109 FD:/DLD4_NEW/WrapperController.v
+L0 11
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|D:/DLD4_NEW/WrapperController.v|
+R10
+Z111 n@wrapper@controller
+Z112 !s108 1670998501.275000
+Z113 !s107 D:/DLD4_NEW/WrapperController.v|
+!i10b 1
+!s85 0
+!s101 -O0

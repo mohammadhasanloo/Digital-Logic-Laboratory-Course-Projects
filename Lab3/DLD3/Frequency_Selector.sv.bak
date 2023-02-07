@@ -1,0 +1,23 @@
+module Frequency_Selector(RO_Clk,rst, ld, SW, clk_to_wg);
+  input RO_Clk, rst,ld;
+  input [4:0] SW;
+  wire [3:0] Fixed_value;
+  output reg clk_to_wg;
+  
+  reg [8:0] count;
+  
+  
+  assign Fixed_value = 4'b0;
+  always@(posedge RO_Clk, posedge rst)
+  begin
+    if(rst)
+      count <= 9'b0;
+    else if(ld)
+        count <= {SW,Fixed_value};
+    else
+      count <= count + 1'b1;
+  end
+  
+  //CO
+  assign clk_to_wg = &{count};
+endmodule

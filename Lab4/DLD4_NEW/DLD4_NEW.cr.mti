@@ -1,0 +1,169 @@
+D:/DLD4_NEW/Exp_Accelerator_codes/register.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/register.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/register18.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/register18.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/register.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/multiplier.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/exponential.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/exponential.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/register18.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/register18.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} D:/DLD4_NEW/WrapperController.v {1 {vlog -work work D:/DLD4_NEW/WrapperController.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module WrapperController
+
+Top level modules:
+	WrapperController
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/Counter.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/Counter.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/multiplier.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/adder.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/LUTExp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} D:/DLD4_NEW/wrapper_counter.v {1 {vlog -work work D:/DLD4_NEW/wrapper_counter.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module wrapper_counter
+
+Top level modules:
+	wrapper_counter
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/Controller.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/Controller.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/Datapath.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/DLD4_NEW/exponential_TB.v {1 {vlog -work work D:/DLD4_NEW/exponential_TB.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module exponential_TB
+
+Top level modules:
+	exponential_TB
+
+} {} {}} D:/DLD4_NEW/Exp_Accelerator_codes/adder.v {1 {vlog -work work D:/DLD4_NEW/Exp_Accelerator_codes/adder.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/exponential_TB.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/exponential_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponential_TB
+
+Top level modules:
+	exponential_TB
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/exponential.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/exponential.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/Datapath.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/Counter.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/DLD4_NEW/Exp_Accelerator_codes/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

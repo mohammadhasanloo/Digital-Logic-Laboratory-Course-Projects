@@ -1,0 +1,547 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\DLD lab 8\Desktop
+Z1 !s11f MIXED_VERSIONS
+vAdder
+Z2 I^GeK^HV@_Dn<BB>RIoInd0
+Z3 V:<OKQCTk6kJ7o:9dn77;70
+Z4 dD:\DLD3
+Z5 w1669826654
+Z6 8D:/DLD3/Adder.v
+Z7 FD:/DLD3/Adder.v
+L0 3
+Z8 OV;L;10.1b;51
+r1
+31
+Z9 o-work work -O0
+Z10 n@adder
+Z11 !s100 T=^OYaj?c?<aDkW0nD8]G3
+Z12 !s108 1671006632.381000
+Z13 !s107 D:/DLD3/Adder.v|
+Z14 !s90 -reportprogress|300|-work|work|D:/DLD3/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vadder
+Z15 !s110 1672049848
+Z16 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z17 I3=[jT>0_X4eCbK`Agedn^1
+Z18 VDg1SIo80bB@j0V0VzS_@n1
+Z19 dF:/One Drive/OneDrive/Desktop/Source/n/DLD3
+Z20 w1670843020
+Z21 8F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Adder.v
+Z22 FF:/One Drive/OneDrive/Desktop/Source/n/DLD3/Adder.v
+Z23 L0 3 11
+Z24 OV;L;2020.1;71
+r1
+31
+Z25 !s108 1672049847.000000
+Z26 o-work work
+Z27 tCvgOpt 0
+Z28 !s100 @CNRINh@U[6VhH0ozO>732
+Z29 !s107 F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Adder.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Adder.v|
+!i10b 1
+!i122 729
+!s85 0
+!i113 1
+vAmplitute_Selector
+Z31 IO?XGaL79><bHD_7Yag7XL3
+Z32 V=3^oS@lVgg1]ZPFICU`2E0
+R4
+Z33 w1669827198
+Z34 8D:/DLD3/Amplitute_Selector.v
+Z35 FD:/DLD3/Amplitute_Selector.v
+L0 1
+R8
+r1
+31
+R9
+Z36 n@amplitute_@selector
+Z37 !s100 <GcB]Ef5]]d6zILPAVNRB0
+Z38 !s108 1671006633.037000
+Z39 !s107 D:/DLD3/Amplitute_Selector.v|
+Z40 !s90 -reportprogress|300|-work|work|D:/DLD3/Amplitute_Selector.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAmplitute_Selector_TB
+Z41 Ihn6WMBS9h>7G^5O?=61iV2
+Z42 VQ[Kc>h:UQmoM09<aXz45k3
+R4
+Z43 w1668055472
+Z44 8D:/DLD3/Amplitute_Selector_TB.v
+Z45 FD:/DLD3/Amplitute_Selector_TB.v
+L0 1
+R8
+r1
+31
+R9
+Z46 n@amplitute_@selector_@t@b
+Z47 !s100 :2fXmP:z6fS0UgCciT@DC1
+Z48 !s108 1671006633.692000
+Z49 !s107 D:/DLD3/Amplitute_Selector_TB.v|
+Z50 !s90 -reportprogress|300|-work|work|D:/DLD3/Amplitute_Selector_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z51 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z52 !s110 1672049846
+R16
+Z53 I8DcneMEX@57I>eG_zFZaY1
+R18
+S1
+R19
+Z54 w1668058586
+Z55 8F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Counter.sv
+Z56 FF:/One Drive/OneDrive/Desktop/Source/n/DLD3/Counter.sv
+Z57 L0 2 26
+R24
+r1
+31
+Z58 !s108 1672049846.000000
+Z59 o-work work -sv
+R27
+Z60 !s100 XaYgcT8OnolJ9BgNedGMm0
+Z61 !s107 F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Counter.sv|
+Z62 !s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Counter.sv|
+!i10b 1
+!i122 723
+!s85 0
+!i113 1
+vCounter
+Z63 IfigEgjiEzkhKQ;R]K6[eb1
+Z64 VZ?Nf1RZX9AeB5=EQf_PKS2
+R4
+Z65 w1669826734
+Z66 8D:/DLD3/Counter.v
+Z67 FD:/DLD3/Counter.v
+L0 2
+R8
+r1
+31
+R9
+Z68 n@counter
+Z69 !s100 k]nfT4E`VFQC9`4n_TXVT2
+Z70 !s108 1671006634.409000
+Z71 !s107 D:/DLD3/Counter.v|
+Z72 !s90 -reportprogress|300|-work|work|D:/DLD3/Counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDAC_tb
+R16
+Z73 I<@:XhziS0j=`G1GZYzMc=0
+R18
+R19
+Z74 w1672049157
+Z75 8F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM_TB.v
+Z76 FF:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM_TB.v
+Z77 L0 2 10
+R24
+r1
+31
+Z78 !s107 F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM_TB.v|
+Z79 !s90 -reportprogress|300|-work|work|-stats=none|F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM_TB.v|
+R26
+R27
+Z80 n@d@a@c_tb
+Z81 !s110 1672049285
+Z82 !s100 FX?Oz5JE]oaaJmF[7EjVl1
+Z83 !s108 1672049284.000000
+!i10b 1
+!i122 668
+!s85 0
+!i113 1
+vDDS
+Z84 I=mMJC]czd;dDAGO3bgoN81
+Z85 Vn4U5nkEF787IaFM4BffZi1
+R4
+Z86 w1669826662
+Z87 8D:/DLD3/DDS.v
+Z88 FD:/DLD3/DDS.v
+L0 3
+R8
+r1
+31
+R9
+Z89 n@d@d@s
+Z90 !s100 Gi@RTAb1gW=fAHkB9fObM0
+Z91 !s108 1671006635.096000
+Z92 !s107 D:/DLD3/DDS.v|
+Z93 !s90 -reportprogress|300|-work|work|D:/DLD3/DDS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDDS_TB
+Z94 IeB^RAP=EO]>XZ@Q]dgDEU0
+Z95 V;3Z:6P`ci9]A2]Qjb]om`0
+R4
+Z96 w1670842388
+Z97 8D:/DLD3/DDS_TB.v
+Z98 FD:/DLD3/DDS_TB.v
+L0 3
+R8
+r1
+31
+R9
+Z99 n@d@d@s_@t@b
+Z100 !s100 LGf5@=8h2U;LM@CB`WA<a1
+Z101 !s108 1671006635.798000
+Z102 !s107 D:/DLD3/DDS_TB.v|
+Z103 !s90 -reportprogress|300|-work|work|D:/DLD3/DDS_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDFF_PWM
+Z104 !s110 1670846533
+R16
+Z105 IBBIjoS55CE_Enz=JUIL>f1
+R18
+R19
+Z106 w1670846506
+Z107 8F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM.v
+Z108 FF:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM.v
+Z109 L0 59 9
+R24
+r1
+31
+Z110 !s108 1670846533.000000
+Z111 !s107 F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM.v|
+Z112 !s90 -reportprogress|300|-work|work|-stats=none|F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM.v|
+R26
+R27
+Z113 n@d@f@f_@p@w@m
+Z114 !s100 SKmjhWYhjA`<k@0VLCGLn1
+!i10b 1
+!i122 425
+!s85 0
+!i113 1
+vFrequency_Selector
+Z115 I;iW_:D^K]U2mRL?0eF52S0
+Z116 VlZIRIhmzni9Ro`H?CWlQB3
+R4
+Z117 w1670995928
+Z118 8D:/DLD3/Frequency_Selector.v
+Z119 FD:/DLD3/Frequency_Selector.v
+L0 1
+R8
+r1
+31
+R9
+Z120 n@frequency_@selector
+Z121 !s100 5B^7EiZ_i70`1[;Q0=3eb2
+Z122 !s108 1671006636.484000
+Z123 !s107 D:/DLD3/Frequency_Selector.v|
+Z124 !s90 -reportprogress|300|-work|work|D:/DLD3/Frequency_Selector.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFrequency_Selector_TB
+Z125 I2TWJ;lDVSi<e7U7>6Wl<E0
+Z126 V9JKa94Hl9JJ:Y0lYILH770
+R4
+Z127 w1668053988
+Z128 8D:/DLD3/Frequency_Selector_TB.v
+Z129 FD:/DLD3/Frequency_Selector_TB.v
+L0 1
+R8
+r1
+31
+R9
+Z130 n@frequency_@selector_@t@b
+Z131 !s100 7jS`7aTM`0T`Cz9GK3cRQ3
+Z132 !s108 1671006643.192000
+Z133 !s107 D:/DLD3/Frequency_Selector_TB.v|
+Z134 !s90 -reportprogress|300|-work|work|D:/DLD3/Frequency_Selector_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPWM
+Z135 ILFTW`Tk>[@WjAiW9ACYnO1
+Z136 VYze<3QV=2TVA8h?b6HA]L1
+R4
+Z137 w1672049796
+Z138 8D:/DLD3/PWM.v
+Z139 FD:/DLD3/PWM.v
+L0 2
+R8
+r1
+31
+R9
+Z140 n@p@w@m
+Z141 !s100 IYigbU7nB4nGd=X_LEneQ3
+Z142 !s108 1671006643.910000
+Z143 !s107 D:/DLD3/PWM.v|
+Z144 !s90 -reportprogress|300|-work|work|D:/DLD3/PWM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPWM_generator
+Z145 !s110 1670846316
+R16
+Z146 IY:TX_UG<M?ojMUC7`K<003
+R18
+R19
+Z147 w1670846117
+R107
+R108
+Z148 L0 1 24
+R24
+r1
+31
+Z149 !s108 1670846316.000000
+R111
+R112
+R26
+R27
+Z150 n@p@w@m_generator
+Z151 !s100 QC4cL>mbnM2U2jSLYkWbz1
+!i10b 1
+!i122 412
+!s85 0
+!i113 1
+vPWM_Generator_Verilog
+R104
+R16
+Z152 I2Ef4Ag6zo6k^6coc=bmDe1
+R18
+R19
+R106
+R107
+R108
+Z153 L0 1 57
+R24
+r1
+31
+R110
+R111
+R112
+R26
+R27
+Z154 n@p@w@m_@generator_@verilog
+Z155 !s100 K[ILPeF4J?eg0lTmYCXcQ3
+!i10b 1
+!i122 425
+!s85 0
+!i113 1
+vPWM_TB
+Z156 IQ]2=K:^G]N^6L>;ELdV:Y2
+Z157 VPh]hH>MQ7<kgKgiBfR2kC2
+R4
+Z158 w1672049844
+Z159 8D:/DLD3/PWM_TB.v
+Z160 FD:/DLD3/PWM_TB.v
+L0 2
+R8
+r1
+31
+R9
+Z161 n@p@w@m_@t@b
+Z162 !s100 XMYFZ;Zik5S?W<gO02`dV0
+Z163 !s108 1671006644.596000
+Z164 !s107 D:/DLD3/PWM_TB.v|
+Z165 !s90 -reportprogress|300|-work|work|D:/DLD3/PWM_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPWM_TN
+R145
+R16
+Z166 INNQ2Hh7Z4Ld]AN:F<2?5D0
+R18
+R19
+Z167 w1670846309
+R75
+R76
+Z168 L0 3 21
+R24
+r1
+31
+R149
+R78
+R79
+R26
+R27
+Z169 n@p@w@m_@t@n
+Z170 !s100 _A:cFXDP[f?:@HcRan9Ja3
+!i10b 1
+!i122 413
+!s85 0
+!i113 1
+vRegister
+Z171 IhZ>a[R:fnE;APW::Ukz`;2
+Z172 VeET;4I9zVQf4HeeB_[H=a2
+R4
+Z173 w1669826472
+Z174 8D:/DLD3/Register.v
+Z175 FD:/DLD3/Register.v
+L0 3
+R8
+r1
+31
+R9
+Z176 n@register
+Z177 !s100 X7S5H`83L2_]<bbLR8S?G0
+Z178 !s108 1671006645.236000
+Z179 !s107 D:/DLD3/Register.v|
+Z180 !s90 -reportprogress|300|-work|work|D:/DLD3/Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+R15
+R16
+Z181 Ie:3^LJE^C]knU_^TlU4:m0
+R18
+R19
+Z182 w1670841153
+Z183 8F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Register.v
+Z184 FF:/One Drive/OneDrive/Desktop/Source/n/DLD3/Register.v
+Z185 L0 3 18
+R24
+r1
+31
+Z186 !s108 1672049848.000000
+R26
+R27
+Z187 !s100 me:dHF^[=5IQk]hL7V]N32
+Z188 !s107 F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Register.v|
+Z189 !s90 -reportprogress|300|-work|work|-stats=none|F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Register.v|
+!i10b 1
+!i122 730
+!s85 0
+!i113 1
+vtb_PWM_Generator_Verilog
+R104
+R16
+Z190 I[E1DkgP?zSloFmRR`:fjN0
+R18
+R19
+Z191 w1670846527
+R75
+R76
+Z192 L0 4 48
+R24
+r1
+31
+R110
+R78
+R79
+R26
+R27
+Z193 ntb_@p@w@m_@generator_@verilog
+Z194 !s100 F`ZeOeL<3NKUPXiF@9X<N1
+!i10b 1
+!i122 426
+!s85 0
+!i113 1
+vWaveform_Generator
+Z195 I4EenZSUcj:1_d8b`RZDBi2
+Z196 VYHjA6f]KRA;1N0c@jolRU1
+R4
+Z197 w1669825852
+Z198 8D:/DLD3/Waveform_Generator.v
+Z199 FD:/DLD3/Waveform_Generator.v
+L0 3
+R8
+r1
+31
+R9
+Z200 n@waveform_@generator
+!i10b 1
+Z201 !s100 =D37WKj73`95LajAOV2=i1
+!s85 0
+Z202 !s108 1671006645.891000
+Z203 !s107 D:/DLD3/Waveform_Generator.v|
+Z204 !s90 -reportprogress|300|-work|work|D:/DLD3/Waveform_Generator.v|
+!s101 -O0
+vWaveform_Generator_TB
+!i10b 1
+!s100 dU<Tn_D6`QK8To3Mc8NFU2
+ID2Y3E:3lWLU81go40;=DN3
+VQk_]eRh>99P^@Tm0QhRTS2
+R4
+w1672046592
+8D:/DLD3/Waveform_Generator_TB.v
+FD:/DLD3/Waveform_Generator_TB.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1671006646.577000
+!s107 D:/DLD3/Waveform_Generator_TB.v|
+!s90 -reportprogress|300|-work|work|D:/DLD3/Waveform_Generator_TB.v|
+!s101 -O0
+R9
+Z205 n@waveform_@generator_@t@b
+vwg_test
+Z206 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z207 I93L0Ke9XMBBGd]g0IU]o60
+Z208 VMWN3bhOk>^9Fig`;L81iC2
+Z209 !s105 Waveform_Generator_sv_unit
+S1
+Z210 dC:\Users\DLD lab 8\Desktop\DLD3
+Z211 w1668057899
+Z212 8C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv
+Z213 FC:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv
+Z214 L0 170
+R8
+r1
+31
+Z215 !s108 1668057906.697000
+Z216 !s107 C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv|
+Z217 !s90 -reportprogress|300|-work|work|-sv|C:/Users/DLD lab 8/Desktop/DLD3/Waveform_Generator.sv|
+Z218 o-work work -sv -O0
+Z219 !s100 8iTH1b>Rj4_i3bzPozfb_0
+!i10b 1
+!s85 0
+!s101 -O0
+vwgp
+R206
+Z220 I0mLgVLgL4M7L?HKPV^DYM3
+Z221 Ve1F2V1RPKUfR<CfMb:QY`0
+R209
+S1
+R210
+R211
+R212
+R213
+L0 3
+R8
+r1
+31
+R215
+R216
+R217
+R218
+Z222 !s100 4XGPe7LXW6e:_[ChWZXI32
+!i10b 1
+!s85 0
+!s101 -O0
+vwgp_test
+R206
+Z223 Ie6jCRN:MM^c>9W9=_RI`P1
+Z224 VbSGXEoc7NzmGMz8UWD78a1
+R209
+S1
+R210
+R211
+R212
+R213
+Z225 L0 154
+R8
+r1
+31
+R215
+R216
+R217
+R218
+Z226 !s100 E=J^kJT<gakRaaoC[zU3U3
+!i10b 1
+!s85 0
+!s101 -O0

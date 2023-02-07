@@ -1,0 +1,83 @@
+|OFSM
+clkPB => clkPB.IN1
+clk => clk.IN2
+serIn => serIn.IN1
+rst => rst.IN1
+serOut <= sequence_detector_1011:sd.port4
+serOutValid <= sequence_detector_1011:sd.port5
+seven_seg[0] <= hexto7segment:hexo.port1
+seven_seg[1] <= hexto7segment:hexo.port1
+seven_seg[2] <= hexto7segment:hexo.port1
+seven_seg[3] <= hexto7segment:hexo.port1
+seven_seg[4] <= hexto7segment:hexo.port1
+seven_seg[5] <= hexto7segment:hexo.port1
+seven_seg[6] <= hexto7segment:hexo.port1
+
+
+|OFSM|hexto7segment:hexo
+x[0] => Decoder0.IN3
+x[1] => Decoder0.IN2
+x[2] => Decoder0.IN1
+x[3] => Decoder0.IN0
+z[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+z[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+z[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+z[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+z[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+z[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+z[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|OFSM|one_pulse:UUT
+clk => ps~1.DATAIN
+clkPB => ns.01.DATAB
+clkPB => Selector1.IN2
+clkPB => Selector0.IN1
+single_pulse <= single_pulse.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|OFSM|counter:cnt
+clk => ~NO_FANOUT~
+ci => count_out.OUTPUTSELECT
+ci => count_out.OUTPUTSELECT
+ci => count_out.OUTPUTSELECT
+ci => count_out.OUTPUTSELECT
+ci => WideAnd0.IN4
+clk_EN => count_out[0]~reg0.CLK
+clk_EN => count_out[1]~reg0.CLK
+clk_EN => count_out[2]~reg0.CLK
+clk_EN => count_out[3]~reg0.CLK
+inc_cnt => co.OUTPUTSELECT
+inc_cnt => count_out[3]~reg0.ENA
+inc_cnt => count_out[2]~reg0.ENA
+inc_cnt => count_out[1]~reg0.ENA
+inc_cnt => count_out[0]~reg0.ENA
+rst_cnt => count_out[0]~reg0.ACLR
+rst_cnt => count_out[1]~reg0.PRESET
+rst_cnt => count_out[2]~reg0.PRESET
+rst_cnt => count_out[3]~reg0.ACLR
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+count_out[0] <= count_out[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count_out[1] <= count_out[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count_out[2] <= count_out[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count_out[3] <= count_out[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|OFSM|sequence_detector_1011:sd
+clk => ps~1.DATAIN
+rst => ps~3.DATAIN
+serIn => serOut.DATAB
+serIn => Selector1.IN2
+serIn => ns.011.DATAB
+serIn => Selector3.IN3
+serIn => Selector0.IN1
+serIn => Selector0.IN2
+serIn => Selector2.IN1
+co => Selector0.IN4
+co => Selector3.IN1
+serOut <= serOut.DB_MAX_OUTPUT_PORT_TYPE
+serOutValid <= inc_cnt.DB_MAX_OUTPUT_PORT_TYPE
+inc_cnt <= inc_cnt.DB_MAX_OUTPUT_PORT_TYPE
+rst_cnt <= rst_cnt.DB_MAX_OUTPUT_PORT_TYPE
+
+

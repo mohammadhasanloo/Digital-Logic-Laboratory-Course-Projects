@@ -1,0 +1,92 @@
+{F:/One Drive/OneDrive/Desktop/Source/n/DLD3/DDS.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/DDS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DDS
+
+Top level modules:
+	DDS
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/PWM.v} {1 {vlog -work work -stats=none {F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Waveform_Generator_TB.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Waveform_Generator_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Waveform_Generator_TB
+
+Top level modules:
+	Waveform_Generator_TB
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Amplitute_Selector_TB.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Amplitute_Selector_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Amplitute_Selector_TB
+
+Top level modules:
+	Amplitute_Selector_TB
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Frequency_Selector.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Frequency_Selector.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Frequency_Selector
+
+Top level modules:
+	Frequency_Selector
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Waveform_Generator.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Waveform_Generator.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Waveform_Generator
+
+Top level modules:
+	Waveform_Generator
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Amplitute_Selector.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Amplitute_Selector.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Amplitute_Selector
+
+Top level modules:
+	Amplitute_Selector
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/DDS_TB.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/DDS_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DDS_TB
+
+Top level modules:
+	DDS_TB
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Frequency_Selector_TB.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Frequency_Selector_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Frequency_Selector_TB
+
+Top level modules:
+	Frequency_Selector_TB
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Counter.sv} {1 {vlog -work work -sv -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Counter.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Register.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Adder.v} {1 {vlog -work work -stats=none {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {F:/One Drive/OneDrive/Desktop/Source/n/DLD3/PWM_TB.v} {1 {vlog -work work -stats=none {F:\One Drive\OneDrive\Desktop\Source\n\DLD3\PWM_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM_TB
+
+Top level modules:
+	PWM_TB
+
+} {} {}}
