@@ -11,7 +11,7 @@ module Waveform_Generator_TB ();
     always #10 clk = ~clk;
     initial begin
         #20 rst = 0;
-        #100000 $stop;
+        #100000 $finish;
     end
 
 endmodule

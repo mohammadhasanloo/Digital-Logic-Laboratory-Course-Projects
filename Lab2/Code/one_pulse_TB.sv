@@ -21,6 +21,6 @@ module one_pulse_TB();
 		#20 clkPBB = 1;
 		#20 clkPBB = 1;
 		#20 clkPBB = 0;
-		#100 $stop;
+		#100 $finish;
 	end
 endmodule

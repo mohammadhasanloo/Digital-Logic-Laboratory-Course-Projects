@@ -18,7 +18,7 @@ module Frequency_Selector_TB();
   initial begin
   #20 ldd = 1;
   #20 ldd = 0;
-  #20000 $stop;
+  #20000 $finish;
   end
   
 endmodule

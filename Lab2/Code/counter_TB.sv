@@ -24,6 +24,6 @@ module counter_TB();
 		#800 rst_cntt = 0;
 		
 		#800 inc_cntt = 1;
-		#800 $stop;
+		#800 $finish;
 	end
 endmodule

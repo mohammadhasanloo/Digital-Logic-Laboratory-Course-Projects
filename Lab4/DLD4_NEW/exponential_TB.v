@@ -21,7 +21,7 @@ module exponential_TB();
         #20 x = 16'h3333; start = 1;
         #20 start = 0;
         while (~done) #20;
-        #100 $stop;
+        #100 $finish;
 
     end
 endmodule

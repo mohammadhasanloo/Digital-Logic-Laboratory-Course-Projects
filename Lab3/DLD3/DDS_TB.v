@@ -10,9 +10,14 @@ module DDS_TB ();
 
     always #10 clk = ~clk;
     initial begin
+        $dumpfile("sim.vcd");
+        $dumpvars(0, DDS_TB);
+    end
+
+    initial begin
         #20 rst = 0;
         #500 phase_control = 1'b0;
-	#500 $stop;
+	#500 $finish;
     end
 
 endmodule

@@ -16,6 +16,6 @@ module Amplitute_Selector_TB();
   #20 SWW = 2'b01;
   #20 SWW = 2'b10;
   #20 SWW = 2'b11;
-  #20 $stop;
+  #20 $finish;
   end
 endmodule

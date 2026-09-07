@@ -11,7 +11,7 @@ end
 initial begin
         #20 rst = 1;
 	#20 rst = 0;
-	#500000 $stop;
+	#500000 $finish;
 end
 always #5 clk=~clk;
 endmodule
